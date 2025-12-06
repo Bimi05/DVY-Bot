@@ -1,0 +1,21 @@
+{
+  "name": "dvy-bot-js",
+  "version": "1.0.0",
+  "description": "Diversity Bot in JavaScript - A learning project.",
+  "main": "main.js",
+  "scripts": {
+    "main": "node .",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Bimi",
+  "license": "ISC",
+  "dependencies": {
+    "brawlstars.js": "^1.2.3",
+    "discord.js": "^14.2.0",
+    "mongoose": "^6.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
